@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
-- 💬 Ask me about **Python🐍, JavaScript, PHP, SQL, HTML, CSS**
+- 💬 Ask me about **Python🐍 [Pandas, NumPy, Scikit-learn and Matplolib], JavaScript, PHP, SQL, HTML, CSS**
 
 - 📫 How to reach me **info@javierblanco.tech**
 
