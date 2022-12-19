@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, My name is Javier Blanco</h1>
-<h3 align="center">I'm passionate about technology. Especially Python🐍, JavaScript, PHP and SQL. Interested in fields such as Artificial Intelligence, Machine Learning, Big Data, Data Science with Python [Pandas, NumPy, Scikit-learn and Matplolib]</h3>
+<h3 align="center">I'm passionate about technology. Especially Python🐍, JavaScript, PHP and SQL. Interested in fields such as Artificial Intelligence, Machine Learning, Big Data, Data Science with Python [Pandas, NumPy, Scikit-learn and Matplotlib]</h3>
 
 - 👨‍💻 All of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
-- 💬 Ask me about **Python🐍 [Pandas, NumPy, Scikit-learn and Matplolib], JavaScript, PHP, SQL | Machine Learning & Data Science**
+- 💬 Ask me about **Python🐍 [Pandas, NumPy, Scikit-learn and Matplotlib], JavaScript, PHP, SQL | Machine Learning & Data Science**
 
 - 📫 How to reach me **info@javierblanco.tech**
 
