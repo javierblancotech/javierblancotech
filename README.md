@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏼, My name is Javier Blanco</h1>
+<h1 align="center">Hello 👋🏼, My name is Javier Blanco </h1>
 <h3 align="center">I'm passionate about technology. Especially Python🐍, SQL, JavaScript and PHP. Interested in fields such as Artificial Intelligence, Machine Learning, Big Data, Data Science with Python [Pandas, NumPy, Scikit-learn and Matplotlib]. </h3>
 
 - 👨‍💻 All of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
