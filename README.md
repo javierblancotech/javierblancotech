@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Javier Blanco</h1>
 <h3 align="center">I am passionate about technology. Especially ☁️ Salesforce , SQL, JavaScript, SSJS, AMPScript and Apex.</h3>
 
-- 👨‍💻 All of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
+- 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
 - 💬 Ask me about **☁️ Salesforce [SSJS, SQL, AMPScript, Apex], JavaScript, PHP & Python.**
 
