@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Javier Blanco</h1>
-<h3 align="center">I am passionate about ☁️ Salesforce ➡️ SQL, JavaScript, SSJS, AMPScript and Apex.</h3>
+<h3 align="center">I am passionate about ☁️ Salesforce ➡️  SSJS, AMPScript, SQL, JavaScript and Apex.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
