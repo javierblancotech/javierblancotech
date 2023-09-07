@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Javier Blanco</h1>
-<h3 align="center">I am ☁️ Salesforce Developer ➡️  SSJS, AMPScript, SQL, JavaScript and Apex.</h3>
+<h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer ➡️ With experience in CRM in ☁️Sales Cloud and ☁️Service Cloud.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
-- 💬 Ask me about **☁️ Salesforce [SSJS, SQL, AMPScript, Apex] ☁️ JavaScript, PHP & Python.**
+- 💬 Ask me about **☁️ Salesforce 👉🏽 [SSJS, SQL, AMPScript, Apex] ☁️ JavaScript, PHP & Python.**
 
 - 📫 How to reach me **info@javierblanco.tech**
 
