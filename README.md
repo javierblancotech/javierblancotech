@@ -3,7 +3,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
-- 💬 Ask me about **☁️ Salesforce [SSJS, SQL, AMPScript, Apex], JavaScript, PHP & Python.**
+- 💬 Ask me about **☁️ Salesforce [SSJS, SQL, AMPScript, Apex] ☁️ JavaScript, PHP & Python.**
 
 - 📫 How to reach me **info@javierblanco.tech**
 
