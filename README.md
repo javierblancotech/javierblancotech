@@ -3,7 +3,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
 
-- 💬 Ask me about **☁️ Marketing Automation 👉🏽 [SSJS, SQL, AMPScript] 🔁 JavaScript, Apex, PHP & Python.**
+- 💬 Ask me about **☁️ Marketing Automation 👉🏽 [SSJS, SQL, AMPScript, Automation Studio, Journey Builder] 🔁 JavaScript, Apex, PHP & Python.**
 
 - 📫 How to reach me **info@javierblanco.tech**
 
