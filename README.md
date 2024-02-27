@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Javier Blanco</h1>
 <h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in CRM in ☁️Sales Cloud and ☁️Service Cloud.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://javierblanco.tech/](https://javierblanco.tech/)
+- 👨‍💻 Some of my projects are available at [https://javierblancotech.com/](https://javierblancotech.com/)
 
-- 💬 Ask me about **☁️ Marketing Automation 👉🏽 [SSJS, SQL, AMPScript, Automation Studio, Journey Builder] 🔁 JavaScript, Apex, PHP & Python.**
+- 💬 Ask me about **☁️ Marketing Automation 👉🏽 [SSJS, SQL, AMPScript, Automation Studio, Journey Builder] 🔁 JavaScript, PHP & Python.**
 
-- 📫 How to reach me **info@javierblanco.tech**
+- 📫 How to reach me **info@javierblancotech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
