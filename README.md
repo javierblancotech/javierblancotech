@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏽, I'm Javier Blanco</h1>
+<h1 align="center">Hi 👋🏽, my name is Javier Blanco</h1>
 <h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in CRM in ☁️Sales Cloud and ☁️Service Cloud.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://javierblancotech.com/](https://javierblancotech.com/)
 
-- 💬 Ask me about **☁️ Marketing Automation 👉🏽 [SSJS, SQL, AMPScript, Automation Studio, Journey Builder] 🔁 JavaScript, PHP & Python.**
+- 💬 I help you automate your company's marketing thanks to ☁️ Salesforce Marketing Cloud programming languages and tools such as **👉🏽 [API calls, SSJS, SQL, AMPScript, Automation Studio, Journey Builder, JavaScript, jQuery] 🔁**
 
 - 📫 How to reach me **info@javierblancotech.com**
 
@@ -17,7 +17,7 @@
 
 
 <h3 align="left"> Languages and Tools:</h3>
-<h3 align="left"> <b>☁️ Salesforce Languages:</b> SSJS, AMPScript, JavaScript, SQL, HTML5  </h3><br>
+<h3 align="left"> <b> Languages:</b> Python, JavaScript, PHP, SQL, HTL5. </h3><br>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
