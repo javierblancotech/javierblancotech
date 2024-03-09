@@ -15,10 +15,10 @@
 </p>
 
 
-<h3 align="left"> <b> Languages used during my training:</b>  </h3><br> 
+<h3 align="left"> <b> Languages used during my training:</b></h3> <b>Python, JavaScript, PHP, SQL, HTML5, jQuery, Java</b> <br> 
 
-**Python, JavaScript, PHP, SQL, HTML5, jQuery, Java**
-<br>
+
+
 
 <h3 align="left"> Languages and Tools:</h3>
 
