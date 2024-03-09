@@ -16,7 +16,7 @@
 
 
 <h3 align="left"> <b> Languages used during my training:</b>  </h3><br>
-<p> **Python, JavaScript, PHP, SQL, HTML5, jQuery, Java** </p><br>
+ **Python, JavaScript, PHP, SQL, HTML5, jQuery, Java**
 
 <h3 align="left"> Languages and Tools:</h3>
 
