@@ -3,7 +3,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://javierblancotech.com/](https://javierblancotech.com/)
 
-- I help Automate Marketing thanks to ☁️ Salesforce Marketing Cloud **👉🏽 [API calls, SSJS, SQL, AMPScript, Automation Studio, Journey Builder, JavaScript, jQuery, HTML5]** 
+- I help Automate Marketing thanks to ☁️ Salesforce Marketing Cloud **👉🏽 [API calls, SSJS, SQL, AMPscript, Automation Studio, Journey Builder, JavaScript, jQuery, HTML5]** 
 
 - 📫 How to reach me **info@javierblancotech.com**
 
