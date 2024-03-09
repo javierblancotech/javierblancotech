@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, my name is Javier Blanco</h1>
-<h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in CRM in ☁️Sales Cloud and ☁️Service Cloud.</h3>
+<h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in CRM: ☁️Sales Cloud and ☁️Service Cloud.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://javierblancotech.com/](https://javierblancotech.com/)
 
