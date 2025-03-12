@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, my name is Javier Blanco</h1>
-<h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in CRM: ☁️Sales Cloud and ☁️Service Cloud.</h3>
+<h3 align="center">I am ☁️ Salesforce Marketing Cloud Developer, with experience in Personalization Studio.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://javierblancotech.com/](https://javierblancotech.com/)
 
-- I help Automate Marketing thanks to ☁️ Salesforce Marketing Cloud **👉🏽 [API calls, SSJS, SQL, AMPscript, Automation Studio, Journey Builder, JavaScript, jQuery, HTML and CSS]** 
+- I help Automate Marketing thanks to ☁️ Salesforce Marketing Cloud **👉🏽 [Personalization Studio (Interaction Studio), API calls, SSJS, SQL, AMPscript, Automation Studio, Journey Builder, JavaScript, jQuery, HTML and CSS]** 
 
 - 📫 How to reach me **info@javierblancotech.com**
 
