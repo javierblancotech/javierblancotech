@@ -3,7 +3,7 @@
 
 - I help Automate Marketing thanks to ☁️ Salesforce Marketing Cloud **👉🏽 [Personalization Studio (Interaction Studio), API calls, SSJS, SQL, AMPscript, Automation Studio, Journey Builder, JavaScript, jQuery, HTML and CSS]** 
 
-- 📫 How to reach me **blancorjavier@gmail.com**
+- 📫 How to reach me: **[Contact me on LinkedIn](https://www.linkedin.com/in/javierblancotech/)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
